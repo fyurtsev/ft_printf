@@ -1,5 +1,4 @@
 # ft_printf
-*Because ft_putnbr() and ft_putstr() aren’t enough* :woman_shrugging:
 
 The goal of this project is to create a libftprintf.a library containing the recoded version the popular and versatile libc function printf(). 
 
